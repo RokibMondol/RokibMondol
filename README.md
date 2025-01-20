@@ -48,9 +48,9 @@ Welcome to my GitHub profile! I'm a **Statistics graduate** with a passion for t
 
 ## 📫 Let's Connect
 
-- **Email**: [[rokibul.islam.ks@gmail.com](mailto\:rokibul.islam.ks@gmail.com)]
-- **LinkedIn**: [Rokibul Islam]\([https://www.linkedin.com/in/rokibul-islam-16b00b176/](https://www.linkedin.com/in/rokibul-islam-16b00b176/))
-- **Portfolio**: [Link]\(https\://rokibmondol.github.io/Resume/)
+- **Email**: [rokibul.islam.ks@gmail.com](mailto\:rokibul.islam.ks@gmail.com)]
+- **LinkedIn**: [Rokibul Islam](https://www.linkedin.com/in/rokibul-islam-16b00b176/)
+- **Portfolio**: [Link](https\://rokibmondol.github.io/Resume/)
 
 Feel free to explore my repositories and projects. I'm always open to collaboration and exciting new opportunities!
 
